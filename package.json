@@ -1,0 +1,19 @@
+{
+  "name": "font-scanner",
+  "version": "0.0.1",
+  "description": "Project to scan all used font-variations on a website",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommueller/font-scanner.git"
+  },
+  "author": "Tom Müller",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tommueller/font-scanner/issues"
+  },
+  "homepage": "https://github.com/tommueller/font-scanner#readme"
+}
