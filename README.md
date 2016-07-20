@@ -29,5 +29,7 @@ All output will be written to a file called 'style'.
 
 ## Credits
 Thanks to the phantomjs and jQuery developers. And also to the authors of these ressources which helped me to put this together:
+
 http://stackoverflow.com/a/12823730/1423259
+
 http://stackoverflow.com/a/23508177/1423259
