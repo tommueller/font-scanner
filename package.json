@@ -15,10 +15,5 @@
   "bugs": {
     "url": "https://github.com/tommueller/font-scanner/issues"
   },
-  "homepage": "https://github.com/tommueller/font-scanner#readme",
-  "dependencies": {
-    "phantomjs": "*"
-  },
-  "devDependencies": {
-  }
+  "homepage": "https://github.com/tommueller/font-scanner#readme"
 }
