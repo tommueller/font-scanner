@@ -20,7 +20,7 @@ phantomjs font-scanner.js 'http://some-url.com'
 
 ### To run multiple pages (_of course without the hyphens!_)
 ```
-phantomjs font-scanner.js ''http://some-url.com' ''http://second-url.org' ... ''http://nth-url.net'
+phantomjs font-scanner.js 'http://some-url.com' 'http://second-url.org' ... 'http://nth-url.net'
 ```
 
 ### To run all pages from a sitemap (_of course without the hyphens!_)
